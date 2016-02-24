@@ -52,7 +52,8 @@ for phoneNumber in extractedPhone:
 
 print (allPhoneNumbers)
 
-# TODO: Copy the extracted email/phone to the clipboard
+# TODO: Format results
+
 results = '\n'.join(allPhoneNumbers) + '\n' + '\n'.join(extractedEmail)
 
 print results
