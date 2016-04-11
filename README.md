@@ -1,6 +1,6 @@
 Automate The Boring Stuff
 ======
-**AutomateTheBoringStuff** is the collection of assignments I completed for a Udemy Class: Automate The Boring Stuff. The course teaches you the python language by utilizing python libraries to automate tasks.
+**AutomateTheBoringStuff** is the collection of assignments I completed for a Udemy Online Course: Automate The Boring Stuff. The course teaches you the python language by utilizing python libraries to automate tasks.
 
 ## Files
 * Section 1 - 9: Python Basics
